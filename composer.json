@@ -1,0 +1,19 @@
+{
+    "name": "chatsong/voice-note",
+    "description": "Voice Note en Audio Demo recorder voor Chatsong",
+    "type": "flarum-extension",
+    "license": "MIT",
+    "require": {
+        "flarum/core": "^1.8"
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Chatsong Voice Note",
+            "icon": {
+                "name": "fas fa-microphone",
+                "backgroundColor": "#e11d48",
+                "color": "#fff"
+            }
+        }
+    }
+}
