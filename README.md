@@ -2,13 +2,19 @@
 
 > **Read-only archive of released versions of chatsong/voice-note.** Not for installation: use [Packagist](https://packagist.org/packages/chatsong/voice-note) or the [upstream repository](https://github.com/chatsong/voice-note).
 
-**0** versions archived · Latest: [`v1.0.6`](https://github.com/flarchive/chatsong-voice-note/tree/archive/v1.0.6) · License: `MIT` · Flarum: `^1.8.0`
+**7** versions archived · Latest: [`v1.0.6`](https://github.com/flarchive/chatsong-voice-note/tree/archive/v1.0.6) · License: `MIT` · Flarum: `^1.8.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2026-10-16 | `^1.8` | [Browse](https://github.com/flarchive/chatsong-voice-note/tree/archive/v1.0.0) |
+| `1.0.1` | 2026-10-16 | `^1.8` | [Browse](https://github.com/flarchive/chatsong-voice-note/tree/archive/v1.0.1) |
+| `v1.0.2` | 2026-10-17 | `^1.8.0` | [Browse](https://github.com/flarchive/chatsong-voice-note/tree/archive/v1.0.2) |
+| `v1.0.3` | 2026-10-17 | `^1.8.0` | [Browse](https://github.com/flarchive/chatsong-voice-note/tree/archive/v1.0.3) |
+| `v1.0.4` | 2026-10-17 | `^1.8.0` | [Browse](https://github.com/flarchive/chatsong-voice-note/tree/archive/v1.0.4) |
+| `v1.0.5` | 2026-10-17 | `^1.8.0` | [Browse](https://github.com/flarchive/chatsong-voice-note/tree/archive/v1.0.5) |
+| `v1.0.6` | 2026-10-17 | `^1.8.0` | [Browse](https://github.com/flarchive/chatsong-voice-note/tree/archive/v1.0.6) |
 
 Catalog entry: [packages/chatsong-voice-note.json](https://github.com/flarchive/archive-index/blob/main/packages/chatsong-voice-note.json)
 
